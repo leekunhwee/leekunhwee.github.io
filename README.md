@@ -6,7 +6,7 @@ GitHub Pages :octocat:
 
 2. [FEM](https://github.com/leekunhwee/FEM): FEM calculation using MATLAB.
 
-3. [Force-Calculation](https://github.com/leekunhwee/Force-Calculation): Fitting cutting parameters and Calculating milling force for 3 types cutting tool.
+3. [Force-Calculation](https://github.com/leekunhwee/ForceCalculation): Fitting cutting parameters and Calculating milling force for 3 types cutting tool.
 
 4. [MATLAB-Simulink-Mechatronic-Systems](https://github.com/leekunhwee/MATLAB-Simulink-Mechatronic-Systems): Using MATLAB and Simulink to simulate the Mechatronic Systems.
 
@@ -16,5 +16,3 @@ GitHub Pages :octocat:
 <br>
 <br>
 
-* [F Q](https://github.com/leekunhwee/Sai)
-* [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima "MathJax Plugin for Github")
