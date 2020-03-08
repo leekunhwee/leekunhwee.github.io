@@ -8,11 +8,13 @@ GitHub Pages :octocat:
 
 3. [Force-Calculation](https://github.com/leekunhwee/ForceCalculation): Fitting cutting parameters and Calculating milling force for 3 types cutting tool.
 
-4. [MATLAB-Simulink-Mechatronic-Systems](https://github.com/leekunhwee/MATLAB-Simulink-Mechatronic-Systems): Using MATLAB and Simulink to simulate the Mechatronic Systems.
+4. [Manim-Study](https://github.com/leekunhwee/ManimStudy): Examples of Scene and study notes of Manim.
 
-5. [Neural-Network](https://github.com/leekunhwee/Neural-Network): Algorithms of machine learning and deep learning technology.
+5. [MATLAB-Simulink-Mechatronic-Systems](https://github.com/leekunhwee/MATLAB-Simulink-Mechatronic-Systems): Using MATLAB and Simulink to simulate the Mechatronic Systems.
 
-6. [Vibration-Signal-Processing](https://github.com/leekunhwee/Vibration-Signal-Processing): MATLAB code for vibration signal processing.
+6. [Neural-Network](https://github.com/leekunhwee/Neural-Network): Algorithms of machine learning and deep learning technology.
+
+7. [Vibration-Signal-Processing](https://github.com/leekunhwee/Vibration-Signal-Processing): MATLAB code for vibration signal processing.
 <br>
 <br>
 
